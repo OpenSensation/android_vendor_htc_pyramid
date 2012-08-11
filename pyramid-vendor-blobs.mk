@@ -73,6 +73,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/pyramid/proprietary/lib/libqdp.so:system/lib/libqdp.so \
   vendor/htc/pyramid/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
   vendor/htc/pyramid/proprietary/lib/libqmi.so:system/lib/libqmi.so \
+  vendor/htc/pyramid/proprietary/lib/libsurfaceflinger_client.so:system/lib/libsurfaceflinger_client.so \
   vendor/htc/pyramid/proprietary/lib/libv8.so:system/lib/libv8.so \
   vendor/htc/pyramid/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so \
   vendor/htc/pyramid/proprietary/lib/hw/sensors.pyramid.so:system/lib/hw/sensors.pyramid.so \
